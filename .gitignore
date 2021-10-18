@@ -29,3 +29,4 @@ yarn-debug.log*
 
 config/database.yml
 config/application.yml
+spec/examples.txt

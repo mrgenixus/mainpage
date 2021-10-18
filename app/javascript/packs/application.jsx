@@ -11,3 +11,7 @@ import 'styles/application'
 
 Rails.start()
 ActiveStorage.start()
+
+
+
+
